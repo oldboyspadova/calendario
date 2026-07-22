@@ -1,0 +1,1097 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Calcio Padova Serie BKT 2026-27//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calcio Padova 2026/27
+X-WR-TIMEZONE:Europe/Rome
+X-WR-CALDESC:Calendario Calcio Padova Serie BKT 2026/27. Date-base uffici
+ ali\; orari e sedi soggetti a conferma.
+X-APPLE-CALENDAR-COLOR:#B7192A
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g1-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🚌 Pisa - Padova | Serie BKT G1
+LOCATION:Stadio della squadra di casa (Pisa) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 1\\nAvversari
+ o: Pisa\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio de
+ lla squadra di casa (Pisa) - sede da confermare\\n\\nData-base ufficiale
+ \, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina 
+ ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026
+ -2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Pisa vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g2-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:🏠 Padova - Hellas Verona | Serie BKT G2
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 2\\nAvversari
+ o: Hellas Verona\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadi
+ o Euganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sog
+ getta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina uffici
+ ale: https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g3-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🚌 Cremonese - Padova | Serie BKT G3
+LOCATION:Stadio della squadra di casa (Cremonese) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 3\\nAvversari
+ o: Cremonese\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stad
+ io della squadra di casa (Cremonese) - sede da confermare\\n\\nData-base
+  ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.
+ \\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-se
+ rie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Cremonese vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g4-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🏠 Padova - Ascoli | Serie BKT G4
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 4\\nAvversari
+ o: Ascoli\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eugan
+ eo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta a
+ d anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: ht
+ tps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Ascoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g5-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🚌 Palermo - Padova | Serie BKT G5
+LOCATION:Stadio della squadra di casa (Palermo) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 5\\nAvversari
+ o: Palermo\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Palermo) - sede da confermare\\n\\nData-base uff
+ iciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nP
+ agina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-
+ b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Palermo vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g6-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏠 Padova - Carrarese | Serie BKT G6
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 6\\nAvversari
+ o: Carrarese\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eu
+ ganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggett
+ a ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale:
+  https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Carrarese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g7-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:🏠 Padova - Virtus Entella | Serie BKT G7
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 7\\nAvversari
+ o: Virtus Entella\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stad
+ io Euganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, so
+ ggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina uffic
+ iale: https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027
+ /
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Virtus Entella
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g8-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🚌 Avellino - Padova | Serie BKT G8
+LOCATION:Stadio della squadra di casa (Avellino) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 8\\nAvversari
+ o: Avellino\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadi
+ o della squadra di casa (Avellino) - sede da confermare\\n\\nData-base u
+ fficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\
+ nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-seri
+ e-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Avellino vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g9-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🏠 Padova - Südtirol | Serie BKT G9
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 9\\nAvversari
+ o: Südtirol\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eu
+ ganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggett
+ a ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale:
+  https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Südtirol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g10-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🚌 Catanzaro - Padova | Serie BKT G10
+LOCATION:Stadio della squadra di casa (Catanzaro) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 10\\nAvversar
+ io: Catanzaro\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Sta
+ dio della squadra di casa (Catanzaro) - sede da confermare\\n\\nData-bas
+ e ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B
+ .\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-s
+ erie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Catanzaro vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g11-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏠 Padova - Empoli | Serie BKT G11
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 11\\nAvversar
+ io: Empoli\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Euga
+ neo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta 
+ ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: h
+ ttps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Empoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g12-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🚌 Arezzo - Padova | Serie BKT G12
+LOCATION:Stadio della squadra di casa (Arezzo) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 12\\nAvversar
+ io: Arezzo\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Arezzo) - sede da confermare\\n\\nData-base uffi
+ ciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPa
+ gina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b
+ -2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Arezzo vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g13-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🏠 Padova - Sampdoria | Serie BKT G13
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 13\\nAvversar
+ io: Sampdoria\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio E
+ uganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sogget
+ ta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale
+ : https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Sampdoria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g14-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🚌 Modena - Padova | Serie BKT G14
+LOCATION:Stadio della squadra di casa (Modena) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 14\\nAvversar
+ io: Modena\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Modena) - sede da confermare\\n\\nData-base uffi
+ ciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPa
+ gina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b
+ -2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Modena vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g15-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏠 Padova - L.R. Vicenza | Serie BKT G15
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 15\\nAvversar
+ io: L.R. Vicenza\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadi
+ o Euganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sog
+ getta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina uffici
+ ale: https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs L.R. Vicenza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g16-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🚌 Benevento - Padova | Serie BKT G16
+LOCATION:Stadio della squadra di casa (Benevento) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 16\\nAvversar
+ io: Benevento\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Sta
+ dio della squadra di casa (Benevento) - sede da confermare\\n\\nData-bas
+ e ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B
+ .\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-s
+ erie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Benevento vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g17-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:🚌 Juve Stabia - Padova | Serie BKT G17
+LOCATION:Stadio della squadra di casa (Juve Stabia) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 17\\nAvversar
+ io: Juve Stabia\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: S
+ tadio della squadra di casa (Juve Stabia) - sede da confermare\\n\\nData
+ -base ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Le
+ ga B.\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendar
+ io-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Juve Stabia vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g18-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏠 Padova - Cesena | Serie BKT G18
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 18\\nAvversar
+ io: Cesena\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Euga
+ neo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta 
+ ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: h
+ ttps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Cesena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g19-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:🚌 Mantova - Padova | Serie BKT G19
+LOCATION:Stadio della squadra di casa (Mantova) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 19\\nAvversar
+ io: Mantova\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadi
+ o della squadra di casa (Mantova) - sede da confermare\\n\\nData-base uf
+ ficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\n
+ Pagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie
+ -b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Mantova vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g20-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🏠 Padova - Cremonese | Serie BKT G20
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 20\\nAvversar
+ io: Cremonese\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio E
+ uganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sogget
+ ta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale
+ : https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Cremonese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g21-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:🚌 Carrarese - Padova | Serie BKT G21
+LOCATION:Stadio della squadra di casa (Carrarese) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 21\\nAvversar
+ io: Carrarese\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Sta
+ dio della squadra di casa (Carrarese) - sede da confermare\\n\\nData-bas
+ e ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B
+ .\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-s
+ erie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Carrarese vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g22-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏠 Padova - Catanzaro | Serie BKT G22
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 22\\nAvversar
+ io: Catanzaro\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio E
+ uganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sogget
+ ta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale
+ : https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Catanzaro
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g23-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🚌 Ascoli - Padova | Serie BKT G23
+LOCATION:Stadio della squadra di casa (Ascoli) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 23\\nAvversar
+ io: Ascoli\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Ascoli) - sede da confermare\\n\\nData-base uffi
+ ciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPa
+ gina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b
+ -2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Ascoli vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g24-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🏠 Padova - Arezzo | Serie BKT G24
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 24\\nAvversar
+ io: Arezzo\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Euga
+ neo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta 
+ ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: h
+ ttps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Arezzo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g25-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:🚌 L.R. Vicenza - Padova | Serie BKT G25
+LOCATION:Stadio della squadra di casa (L.R. Vicenza) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 25\\nAvversar
+ io: L.R. Vicenza\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: 
+ Stadio della squadra di casa (L.R. Vicenza) - sede da confermare\\n\\nDa
+ ta-base ufficiale\, soggetta ad anticipi\, posticipi e variazioni della 
+ Lega B.\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calend
+ ario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - L.R. Vicenza vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g26-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏠 Padova - Modena | Serie BKT G26
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 26\\nAvversar
+ io: Modena\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Euga
+ neo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta 
+ ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: h
+ ttps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Modena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g27-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🚌 Sampdoria - Padova | Serie BKT G27
+LOCATION:Stadio della squadra di casa (Sampdoria) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 27\\nAvversar
+ io: Sampdoria\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Sta
+ dio della squadra di casa (Sampdoria) - sede da confermare\\n\\nData-bas
+ e ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B
+ .\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-s
+ erie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Sampdoria vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g28-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:🏠 Padova - Mantova | Serie BKT G28
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 28\\nAvversar
+ io: Mantova\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eug
+ aneo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta
+  ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: 
+ https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g29-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🏠 Padova - Benevento | Serie BKT G29
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 29\\nAvversar
+ io: Benevento\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio E
+ uganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sogget
+ ta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale
+ : https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Benevento
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g30-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:🚌 Cesena - Padova | Serie BKT G30
+LOCATION:Stadio della squadra di casa (Cesena) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 30\\nAvversar
+ io: Cesena\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Cesena) - sede da confermare\\n\\nData-base uffi
+ ciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPa
+ gina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b
+ -2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Cesena vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g31-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏠 Padova - Palermo | Serie BKT G31
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 31\\nAvversar
+ io: Palermo\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eug
+ aneo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta
+  ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: 
+ https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Palermo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g32-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🚌 Empoli - Padova | Serie BKT G32
+LOCATION:Stadio della squadra di casa (Empoli) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 32\\nAvversar
+ io: Empoli\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Stadio
+  della squadra di casa (Empoli) - sede da confermare\\n\\nData-base uffi
+ ciale\, soggetta ad anticipi\, posticipi e variazioni della Lega B.\\nPa
+ gina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-serie-b
+ -2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Empoli vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g33-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:🏠 Padova - Juve Stabia | Serie BKT G33
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 33\\nAvversar
+ io: Juve Stabia\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio
+  Euganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, sogg
+ etta ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficia
+ le: https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Juve Stabia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g34-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🚌 Hellas Verona - Padova | Serie BKT G34
+LOCATION:Stadio della squadra di casa (Hellas Verona) - sede da confermar
+ e
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 34\\nAvversar
+ io: Hellas Verona\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio:
+  Stadio della squadra di casa (Hellas Verona) - sede da confermare\\n\\n
+ Data-base ufficiale\, soggetta ad anticipi\, posticipi e variazioni dell
+ a Lega B.\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-cale
+ ndario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Hellas Verona vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g35-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🚌 Südtirol - Padova | Serie BKT G35
+LOCATION:Stadio della squadra di casa (Südtirol) - sede da confermare
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 35\\nAvversar
+ io: Südtirol\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio: Sta
+ dio della squadra di casa (Südtirol) - sede da confermare\\n\\nData-bas
+ e ufficiale\, soggetta ad anticipi\, posticipi e variazioni della Lega B
+ .\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-calendario-s
+ erie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Südtirol vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g36-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:🏠 Padova - Pisa | Serie BKT G36
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 36\\nAvversar
+ io: Pisa\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eugane
+ o\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggetta ad
+  anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale: htt
+ ps://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Pisa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g37-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🚌 Virtus Entella - Padova | Serie BKT G37
+LOCATION:Stadio della squadra di casa (Virtus Entella) - sede da conferma
+ re
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 37\\nAvversar
+ io: Virtus Entella\\nTipo gara: Trasferta\\nOrario: da definire\\nStadio
+ : Stadio della squadra di casa (Virtus Entella) - sede da confermare\\n\
+ \nData-base ufficiale\, soggetta ad anticipi\, posticipi e variazioni de
+ lla Lega B.\\nPagina ufficiale: https://www.padovacalcio.it/sorteggio-ca
+ lendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:TRASFERTA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Virtus Entella vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calcio-padova-2026-27-g38-all@openai
+DTSTAMP:20260722T185419Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:🏠 Padova - Avellino | Serie BKT G38
+LOCATION:Stadio Euganeo\, Viale Nereo Rocco 60\, Padova
+DESCRIPTION:Calcio Padova - Serie BKT 2026/2027\\nGiornata: 38\\nAvversar
+ io: Avellino\\nTipo gara: Casa\\nOrario: da definire\\nStadio: Stadio Eu
+ ganeo\, Viale Nereo Rocco 60\, Padova\\n\\nData-base ufficiale\, soggett
+ a ad anticipi\, posticipi e variazioni della Lega B.\\nPagina ufficiale:
+  https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+URL:https://www.padovacalcio.it/sorteggio-calendario-serie-b-2026-2027/
+CATEGORIES:CASA,CALCIO PADOVA,SERIE BKT
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita domani - Padova vs Avellino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Calcio Padova: partita tra 2 ore - verificare orario ufficial
+ e
+END:VALARM
+END:VEVENT
+END:VCALENDAR
